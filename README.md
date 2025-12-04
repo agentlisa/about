@@ -1,4 +1,4 @@
-![AgentLISA](https://agentlisa.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhome.c081e688.png&w=1920&q=75)
+![AgentLISA](https://agentlisa.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhome.b02bc584.png&w=1080&q=75)
 
 ## About AgentLISA
 AgentLISA is the first Agentic Security Operating System for Web3, built to secure smart contracts at the speed of modern development.
